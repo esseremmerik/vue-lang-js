@@ -43,7 +43,7 @@
   ],
   "homepage": "https://www.eli5.io",
   "main": "dist/vue-lang-js.common.js",
-  "module": "dist/vue-lang-js.esm.js",
+  "module": "dist/vue-lang-js.min.js",
   "unpkg": "dist/vue-lang-js.js",
   "keywords": [
     "plugin",
